@@ -1,0 +1,14 @@
+index.js
+    defines saturdayFun function declaration as specified
+      ✓ function exists
+      ✓ uses the default activity 'roller-skate' when no arguments are passed
+      ✓ permits the default activity to be overriden
+    defines mondayWork function expression as specified
+      ✓ function exists
+      ✓ uses the default activity 'go to the office' when no arguments are passed
+      ✓ permits the default activity to be overriden
+    defines wrapAdjective function according to the specification
+      ✓ function exists
+      ✓ when initialized with '*' creates a function that, when called, wraps an adjective in a highlight
+      ✓ when initialized with '||' creates a function that, when called, wraps an adjective in a highlight
+
